@@ -1,16 +1,34 @@
 ## Hi there 👋
+# Vanisha Sharma
 
-<!--
-**Vanzzz26/Vanzzz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | AI/ML Enthusiast | Lifelong Learner**
 
-Here are some ideas to get you started:
+✨ Welcome to my GitHub profile! I'm a curious mind currently exploring the world of **Artificial Intelligence**, **Machine Learning**, and **Generative AI**. As I continue my journey in tech, I'm building a strong foundation in core programming and emerging AI technologies — one project at a time. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- **Languages: ** Python, C, C++
+- **Tools & Libraries: ** NumPy, Pandas, scikit-learn (basics), Git
+- **Learning Path: ** Python-based ML frameworks and AI fundamentals
+
+
+### 🔍 Currently Exploring
+
+- Generative AI & Large Language Models (LLMs)
+- Neural Networks & Deep Learning Basics
+- Applied Machine Learning with Python
+
+### 📈 Next Steps
+
+I'm currently working on:
+- Hands-on mini-projects to apply ML concepts
+- Building a strong ML portfolio
+- Diving deeper into Generative AI concepts
+
+### 📬 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/vanisha-sharma26)  
+- 📧 vanisha26sharma@gmail.com
+
+> *“The best way to predict the future is to create it.” *
+
